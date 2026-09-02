@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Programming enthusiast | Exploring software development and modern technologies
 
 
